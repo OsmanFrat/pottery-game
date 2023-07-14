@@ -1,5 +1,5 @@
 # pottery-game
-Untiy 3D pottery game\
+Untiy 3D pottery game
 
 Play link: https://osmanfrat.itch.io/la-poterie
 
